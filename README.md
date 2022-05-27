@@ -28,6 +28,12 @@ Raymon Anthony Doane: 3.1% (11,606)
 Winning Vote Count: 272,892
 Winning Percentage: 73.8%
 -------------------------
+#####County Votes:
+Jefferson: 10.5% (38,855)
+######Denver: 82.8% (306,055)
+Arapahoe: 6.7% (24,801)
+-------------------------
+####Largest County Turnout Denver
 
 ### Challenge Overview
 It was tricky to work through the coding issues of calculating everything and making sure my variables were fully defined. Once the coding was correct tallying the results was simple. It's easy to see at a glance the important numbers and I wish Diana DeGette success with her time in office. 
