@@ -40,3 +40,6 @@ It was tricky to work through the coding issues of calculating everything and ma
 
 ### Challenge Summary
 Amazing to see how small differences in the code lead to a variety of outcomes as far as printing in terminal vs printing to a summarized result sheet. The nice thing is you could use the terminal output method for occasional updates as the votes come in, then update to print or save to a sheet for the final count to announce the results. 
+
+
+#### I'd advise the county to save this code because with small updates we can modify the code to reference a different voter csv file in order to audit a future election. Since the code is already written it will only be a matter of making small adjustments. We can also update the code to look at local issues for bond proposals or tax increases as needed. This will allow the voice of the voter to be clearly heard and measured. 
